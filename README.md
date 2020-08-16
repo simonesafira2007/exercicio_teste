@@ -11,8 +11,16 @@
 
  CSS é a sigla para Cascading Style Sheet que, em português, significa Folha de Estilo em Cascatas. É uma linguagem de estilos que serve para compor a parte visual das páginas na internet.  
 <b></b>
-  
+
+![Logo do HTML](./imagem/img_0)
+
+ <b></b>
+
  Por Inácia Simone
+
+
+
+ 
  
      
 
