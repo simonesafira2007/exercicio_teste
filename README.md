@@ -5,7 +5,6 @@
 
  ![Logo do Htmle do CSS](./imagem/img0.jpg)
 
- 
 
  ## HTML  
  É uma abreviação para a expressão inglesa HyperText Markup Language que significa Linguagem de Marcação de Hipertexto. Trata-se de uma linguagem de marcação utilizada na construção de páginas na Web. 
@@ -17,7 +16,7 @@
  É uma linguagem de estilos que serve para compor a parte visual das páginas na internet.  
 <b></b>
 
- Curso de Construção de Site: HTML5 / CSS3 e Javascript (https://www.youtube.com/watch?v=epDCjksKMok)
+ Curso de Construção de Site (HTML5 / CSS3 e Javascript):  https://www.youtube.com/watch?v=epDCjksKMok
 
  <b></b>
 
