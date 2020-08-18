@@ -14,10 +14,12 @@
  É a sigla para Cascading Style Sheet que, em português, significa Folha de Estilo em Cascatas. É uma linguagem de estilos que serve para compor a parte visual das páginas na internet.  
 <b></b>
 
- <center>![Logo do HTML](./imagem/img_0.jpg) <center>
+ Markdown (https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
+
+  ![Logo do HTML](./imagem/img_0.jpg) 
 
 
- <b></b>
+ <b></b>    
 
  Por Inácia Simone
 
