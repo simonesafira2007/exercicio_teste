@@ -17,7 +17,7 @@
  É uma linguagem de estilos que serve para compor a parte visual das páginas na internet.  
 <b></b>
 
- Markdown (https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1/)
+ Curso de Construção de Site: HTML5 / CSS3 e Javascript (https://www.youtube.com/watch?v=epDCjksKMok)
 
  <b></b>
 
