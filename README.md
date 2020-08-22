@@ -20,8 +20,11 @@
 
  <b></b>
 
-  ![Logo do HTML](./imagem/img_0.jpg) 
+<center> 
 
+![Logo do HTML](./imagem/img_0.jpg) 
+
+<center>
 
  <b></b>    
 
