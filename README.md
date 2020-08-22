@@ -20,15 +20,15 @@
 
  <b></b>
 
-<center> 
+
 
 ![Logo do HTML](./imagem/img_0.jpg) 
 
-<center>
+
 
  <b></b>    
 
- Por Inácia Simone
+ <strong>Por Inácia Simone </strong>
 
 
 
